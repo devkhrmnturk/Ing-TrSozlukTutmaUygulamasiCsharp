@@ -1,0 +1,11 @@
+C:\Users\Muhammed\Desktop\isler\csharp-projects\SozlukForm\SozlukForm\obj\Debug\SozlukForm.csproj.AssemblyReference.cache
+C:\Users\Muhammed\Desktop\isler\csharp-projects\SozlukForm\SozlukForm\obj\Debug\SozlukForm.Form1.resources
+C:\Users\Muhammed\Desktop\isler\csharp-projects\SozlukForm\SozlukForm\obj\Debug\SozlukForm.Properties.Resources.resources
+C:\Users\Muhammed\Desktop\isler\csharp-projects\SozlukForm\SozlukForm\obj\Debug\SozlukForm.csproj.GenerateResource.cache
+C:\Users\Muhammed\Desktop\isler\csharp-projects\SozlukForm\SozlukForm\obj\Debug\SozlukForm.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed\Desktop\isler\csharp-projects\SozlukForm\SozlukForm\bin\Debug\SozlukForm.exe.config
+C:\Users\Muhammed\Desktop\isler\csharp-projects\SozlukForm\SozlukForm\bin\Debug\SozlukForm.exe
+C:\Users\Muhammed\Desktop\isler\csharp-projects\SozlukForm\SozlukForm\bin\Debug\SozlukForm.pdb
+C:\Users\Muhammed\Desktop\isler\csharp-projects\SozlukForm\SozlukForm\obj\Debug\SozlukForm.exe
+C:\Users\Muhammed\Desktop\isler\csharp-projects\SozlukForm\SozlukForm\obj\Debug\SozlukForm.pdb
+C:\Users\Muhammed\Desktop\isler\csharp-projects\SozlukForm\SozlukForm\obj\Debug\SozlukForm.Form2.resources
